@@ -19,8 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
   <img src="https://skillicons.dev/icons?i=c" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
@@ -30,10 +29,14 @@
   <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-</p>
 
 
 
